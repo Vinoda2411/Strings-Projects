@@ -46,3 +46,7 @@ for ch in s:
 - Reverse: s[::-1]
 - Palindrome: s == s[::-1]
 - Count letter: s.count('a')
+
+🔸Followings are the two Projects on Strings
+1.Password Strength Checker
+2.Palindrome Checker
