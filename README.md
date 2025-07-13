@@ -48,5 +48,7 @@ for ch in s:
 - Count letter: s.count('a')
 
 🔸Followings are the two Projects on Strings
+
 1.Password Strength Checker
+
 2.Palindrome Checker
